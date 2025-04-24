@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
       - name: hello
-        image: akashhc55/hello-argocd:20
+        image: akashhc55/hello-argocd:21
         ports:
         - containerPort: 3000
